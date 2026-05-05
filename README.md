@@ -6,7 +6,7 @@
 -->
 
 <a href="https://github.com/vigilancetrent">
-  <img src="./hero.svg" alt="Louis Chifura — Quantitative ML × RL Engineer" width="100%"/>
+  <img src="./hero.svg" alt="thechifura — Quantitative ML × RL Engineer" width="100%"/>
 </a>
 
 <p align="center">
@@ -29,8 +29,8 @@
 
 ```yaml
 identity:
-  name:        Louis Chifura
-  handle:      vigilancetrent
+  name:        thechifura
+  handle:      @vigilancetrent
   role:        Quantitative ML × RL engineer
   located:     Africa  ·  remote-first  ·  open to global
   contact:     louischifura@gmail.com
