@@ -29,6 +29,9 @@ font-family: 'Segoe UI', Roboto, sans-serif;">
   <a href="https://www.zanii.agency">
     <img src="https://img.shields.io/badge/Zanii-Visit%20Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Zanii website">
   </a>
+  <a href="https://x.com/royalchif">
+    <img src="https://img.shields.io/twitter/follow/royalchif?logo=x&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Follow on X"/>
+  </a>
   <a href="https://github.com/vigilancetrent?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories">
   </a>
@@ -72,6 +75,14 @@ font-family: 'Segoe UI', Roboto, sans-serif;">
   <a href="https://www.zanii.agency"><img src="https://img.shields.io/badge/Zanii-0b1321?style=for-the-badge&logo=google-chrome&logoColor=58A6FF"/></a>
   <a href="mailto:louischifura@gmail.com"><img src="https://img.shields.io/badge/Email-0b1321?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
   <a href="https://github.com/vigilancetrent"><img src="https://img.shields.io/badge/GitHub-0b1321?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+</p>
+<p align="center">
+  <!-- 💬 Social Media -->
+  <a href="https://www.linkedin.com/in/louis-emmanuel-chifura-486b81155/"><img src="https://img.shields.io/badge/LinkedIn-0b1321?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://x.com/royalchif"><img src="https://img.shields.io/badge/X-0b1321?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>
+  <a href="https://www.instagram.com/thechifura"><img src="https://img.shields.io/badge/Instagram-0b1321?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+  <a href="https://discord.com/users/thechifura"><img src="https://img.shields.io/badge/Discord-0b1321?style=for-the-badge&logo=discord&logoColor=7289DA"/></a>
+  <a href="https://www.youtube.com/@thechifura"><img src="https://img.shields.io/badge/YouTube-0b1321?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
 </p>
 
 <h2 align="center" style="color:#58A6FF;">📊 GitHub Overview</h2>
