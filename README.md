@@ -1,142 +1,116 @@
-<!--
-   ╔════════════════════════════════════════════════════════════════════╗
-   ║   github.com/vigilancetrent  ·  louischifura@gmail.com             ║
-   ║   built 2026 ·  see hero.svg + .github/workflows/snake.yml         ║
-   ╚════════════════════════════════════════════════════════════════════╝
--->
+<!-- 🌌 Dark Card Container -->
+<div align="center" style="background: linear-gradient(180deg, #0a0f1a 0%, #0b1321 50%, #0e1729 100%);
+padding: 40px; border-radius: 16px; box-shadow: 0 0 40px rgba(88,166,255,0.2); color: #E6EDF3;
+font-family: 'Segoe UI', Roboto, sans-serif;">
 
-<a href="https://github.com/vigilancetrent">
-  <img src="./hero.svg" alt="thechifura — Quantitative ML × RL Engineer" width="100%"/>
-</a>
-
+<!-- ✨ Header Divider -->
 <p align="center">
-  <a href="https://github.com/vigilancetrent?tab=repositories"><img src="https://img.shields.io/badge/-REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=0f172a"/></a>
-  &nbsp;
-  <a href="mailto:louischifura@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=0f172a"/></a>
-  &nbsp;
-  <a href="https://github.com/vigilancetrent/quantflow"><img src="https://img.shields.io/badge/-QUANTFLOW-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=0f172a"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=vigilancetrent&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="animated header divider"/>
+</p>
+
+<h1 align="center" style="color:#58A6FF; text-shadow: 0 0 15px #58A6FF;">🌙 Hi, I'm <b>Louis Chifura</b> 👋</h1>
+
+<p align="center" style="color:#A9B8D4; font-size:16px;">
+💻 Founder of <a href="https://www.zanii.agency" style="color:#58A6FF;">Zanii</a> · AI Agent Infrastructure · Quantitative ML & RL · Builder of accountable AI systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+the+layer+underneath+your+trading+strategy.;Modern+microstructure+%26+regime-conditioned+RL.;Walk-forward+CV+by+default.+No+leakage%2C+no+lies.;Citation+or+it+didn%E2%80%99t+happen."/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" alt="divider"/>
 </p>
 
----
-
-### `~ $ cat about.md`
-
-```yaml
-identity:
-  name:        thechifura
-  handle:      @vigilancetrent
-  role:        Quantitative ML × RL engineer
-  located:     Africa  ·  remote-first  ·  open to global
-  contact:     louischifura@gmail.com
-
-building:
-  - QuantFlow                # MIT-licensed ML/RL library for finance
-  - Hybrid Transformer × RL  # short-horizon equity / FX
-  - Microstructure features  # Kyle's λ, VPIN, fractional differentiation
-  - Regime-conditioned policies that switch on detected regime
-
-principles:
-  - The backtest is a lie until it survives walk-forward CV with realistic costs.
-  - Citation or it didn’t happen — every indicator carries the original paper.
-  - Boring, well-validated alpha beats clever fragile alpha every time.
-  - Open source where possible. Strategies private; tooling shouldn’t be.
-```
-
----
-
-### `~ $ stack --by-domain`
-
+<!-- 🧭 Stats Row -->
 <p align="center">
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8"/>
-<img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=f0abfc"/>
-<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnu-bash&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/github/followers/vigilancetrent?label=Followers&logo=github&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/vigilancetrent?label=Stars&logo=github&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=vigilancetrent&color=58A6FF&style=for-the-badge&label=Views" alt="Views"/>
 </p>
 
 <p align="center">
-<!-- ML / RL -->
-<img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c"/>
-<img src="https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=f7931e"/>
-<img src="https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge&logo=xgboost&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/Stable--Baselines3-0f172a?style=for-the-badge&logoColor=a78bfa&logo=openai"/>
-<img src="https://img.shields.io/badge/Gymnasium-0f172a?style=for-the-badge&logoColor=22d3ee&logo=openai"/>
-<img src="https://img.shields.io/badge/Ray-0f172a?style=for-the-badge&logo=ray&logoColor=028CF0"/>
-<img src="https://img.shields.io/badge/ONNX-0f172a?style=for-the-badge&logo=onnx&logoColor=f0abfc"/>
-</p>
-
-<p align="center">
-<!-- Data / Infra -->
-<img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4dabcf"/>
-<img src="https://img.shields.io/badge/pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=130754"/>
-<img src="https://img.shields.io/badge/Polars-0f172a?style=for-the-badge&logo=polars&logoColor=cd792c"/>
-<img src="https://img.shields.io/badge/DuckDB-0f172a?style=for-the-badge&logo=duckdb&logoColor=fff100"/>
-<img src="https://img.shields.io/badge/Apache_Arrow-0f172a?style=for-the-badge&logo=apache&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=github-actions&logoColor=a78bfa"/>
-</p>
-
----
-
-### `~ $ ls -la projects/featured/`
-
-<p align="center">
-  <a href="https://github.com/vigilancetrent/quantflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vigilancetrent&repo=quantflow&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa" alt="QuantFlow"/>
+  <a href="https://www.zanii.agency">
+    <img src="https://img.shields.io/badge/Zanii-Visit%20Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Zanii website">
+  </a>
+  <a href="https://github.com/vigilancetrent?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories">
   </a>
 </p>
 
-> **QuantFlow** — Modular ML/RL library for financial markets. **20 modern indicators** (Kyle's λ, VPIN, Hurst R/S, fractional differentiation, realised semivariance…), walk-forward CV by default, gym-compatible RL env, real backtest engine. **52 passing tests, MIT licensed.**
+<h2 align="center" style="color:#58A6FF;">🚀 About Me</h2>
+<p align="center" style="color:#A9B8D4;">
+🌱 Building <b>Zanii</b> — identity, ledger, memory and governance infrastructure for AI agents<br/>
+🔬 Working with <b>Python, TypeScript, LangGraph, PyTorch, FastAPI, Postgres, MCP</b><br/>
+👯 Open to collaborations in <b>AI Agents, Agent Security, Quant ML/RL & Regulated-Market AI</b><br/>
+⚡ Fun Fact: I believe every agent action should leave a receipt — if it isn't verifiable, it didn't happen
+</p>
 
----
+<h2 align="center" style="color:#58A6FF;">🛠️ Tech Stack</h2>
 
-### `~ $ telemetry --window=12mo`
-
+<!-- 💻 Core Stack Icons -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigilancetrent&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vigilancetrent&theme=tokyonight&hide_border=true&background=0a0e1a&stroke=22d3ee&ring=a78bfa&fire=f0abfc&currStreakLabel=22d3ee" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,rust,bash,fastapi,nodejs,bun,vue,react,nextjs,tailwind,vite,pytorch,sklearn,tensorflow,postgres,sqlite,redis,mongodb,prisma,graphql,docker,nginx,linux,aws,cloudflare,vercel,git,github,githubactions,gitlab,vscode,solidity,figma&theme=dark&perline=12" alt="All Tech Icons"/>
+</p>
+
+<h2 align="center" style="color:#58A6FF;">🧩 Zanii Ecosystem</h2>
+<p align="center">
+  <a href="https://github.com/vigilancetrent/zanii-id"><img src="https://img.shields.io/badge/zanii--id-Identity_%2F_OIDC-0b1321?style=for-the-badge&logo=auth0&logoColor=58A6FF" alt="zanii-id"/></a>
+  <a href="https://github.com/vigilancetrent/zanii-ledger"><img src="https://img.shields.io/badge/zanii--ledger-Verifiable_Receipts-0b1321?style=for-the-badge&logo=hyperledger&logoColor=58A6FF" alt="zanii-ledger"/></a>
+  <a href="https://github.com/vigilancetrent/zaniiDB-Agent-Memory"><img src="https://img.shields.io/badge/zaniiDB-Agent_Memory-0b1321?style=for-the-badge&logo=databricks&logoColor=58A6FF" alt="zaniiDB"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/vigilancetrent/zanii_AGI"><img src="https://img.shields.io/badge/zanii--AGI-Super--Agent_Harness-0b1321?style=for-the-badge&logo=openai&logoColor=58A6FF" alt="zanii-AGI"/></a>
+  <a href="https://github.com/vigilancetrent/zanii-atn"><img src="https://img.shields.io/badge/zanii--atn-Capability_Loop_Protocol-0b1321?style=for-the-badge&logo=protocolsdotio&logoColor=58A6FF" alt="zanii-atn"/></a>
+  <a href="https://github.com/vigilancetrent/zanii-chain"><img src="https://img.shields.io/badge/zanii--chain-Agent--Native_L1-0b1321?style=for-the-badge&logo=ethereum&logoColor=58A6FF" alt="zanii-chain"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/vigilancetrent/zanii-governance"><img src="https://img.shields.io/badge/zanii--governance-Gov_AI_Accountability-0b1321?style=for-the-badge&logo=gitbook&logoColor=58A6FF" alt="zanii-governance"/></a>
+  <a href="https://github.com/vigilancetrent/claude-code-zanii"><img src="https://img.shields.io/badge/claude--code--zanii-Proof--of--Action_CLI-0b1321?style=for-the-badge&logo=anthropic&logoColor=58A6FF" alt="claude-code-zanii"/></a>
+  <a href="https://github.com/vigilancetrent/truststack"><img src="https://img.shields.io/badge/truststack-Trust_Stack_for_Agents-0b1321?style=for-the-badge&logo=shield&logoColor=58A6FF" alt="truststack"/></a>
+</p>
+
+<h2 align="center" style="color:#58A6FF;">🌐 Connect with Me</h2>
+<p align="center">
+  <!-- 🌍 Websites & Mail -->
+  <a href="https://www.zanii.agency"><img src="https://img.shields.io/badge/Zanii-0b1321?style=for-the-badge&logo=google-chrome&logoColor=58A6FF"/></a>
+  <a href="mailto:louischifura@gmail.com"><img src="https://img.shields.io/badge/Email-0b1321?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/vigilancetrent"><img src="https://img.shields.io/badge/GitHub-0b1321?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+</p>
+
+<h2 align="center" style="color:#58A6FF;">📊 GitHub Overview</h2>
+
+<!-- 🧠 Core Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigilancetrent&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1321&title_color=58A6FF&icon_color=58A6FF&text_color=A9B8D4&ring_color=58A6FF&line_height=28&rank_icon=github" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigilancetrent&theme=tokyonight&hide_border=true&background=0b1321&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=A9B8D4" height="180em" alt="GitHub Streak"/>
+</p>
+
+<!-- 🧩 Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigilancetrent&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&bg_color=0b1321&title_color=58A6FF&text_color=A9B8D4" height="180em" alt="Top Languages"/>
+</p>
+
+<!-- 🏆 Achievements -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vigilancetrent&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4&title=Commit,Followers,Repositories,Stars,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+</p>
+
+<h2 align="center" style="color:#58A6FF;">🔥 Contributions & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigilancetrent&bg_color=0b1321&color=58A6FF&line=FF6E96&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vigilancetrent/vigilancetrent/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</p>
+
+<h2 align="center" style="color:#58A6FF;">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=%230b1321&qColor=%2358A6FF&aColor=%23FF6E96" alt="Random Dev Quote"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigilancetrent&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=22d3ee&text_color=cbd5e1&langs_count=8" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=vigilancetrent&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&text=⭐%20From%20Zanii%20⭐&fontColor=58A6FF&animation=twinkling"/>
+</p>
+<p align="center" style="color:#58A6FF; font-size:13px; text-shadow: 0 0 8px rgba(88,166,255,0.8);">
+  Made with ❤️ by <a href="https://github.com/vigilancetrent" style="color:#7DB9FF; text-decoration:none;">Louis Chifura</a><br/>
+  Founder of <a href="https://www.zanii.agency" style="color:#7DB9FF; text-decoration:none;">Zanii</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigilancetrent&theme=tokyo-night&hide_border=true&bg_color=0a0e1a&color=22d3ee&line=a78bfa&point=f0abfc&area=true&area_color=22d3ee" alt="Activity graph"/>
-</p>
-
----
-
-### `~ $ ./contributions --animate`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vigilancetrent/vigilancetrent/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake — auto-generated every 6 hours"/>
-</p>
-
----
-
-### `~ $ contact --channels`
-
-<p align="center">
-  <a href="mailto:louischifura@gmail.com"><img src="https://img.shields.io/badge/louischifura%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=22d3ee"/></a>
-  &nbsp;
-  <a href="https://github.com/vigilancetrent"><img src="https://img.shields.io/badge/@vigilancetrent-0f172a?style=for-the-badge&logo=github&logoColor=a78bfa"/></a>
-  &nbsp;
-  <a href="https://github.com/vigilancetrent/quantflow/issues/new"><img src="https://img.shields.io/badge/open_an_issue-0f172a?style=for-the-badge&logo=githubactions&logoColor=f0abfc"/></a>
-</p>
-
-<p align="center">
-  <sub><i>"In God we trust. All others must bring data." — W. E. Deming</i></sub>
-</p>
-
-<p align="center">
-  <sub><code>// system idle · awaiting next signal</code></sub>
-</p>
+</div>
